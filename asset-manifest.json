@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/m2price/static/css/main.4ef013b7.css",
+    "main.js": "/m2price/static/js/main.c51f9b4d.js",
+    "static/js/453.e3c1ddf2.chunk.js": "/m2price/static/js/453.e3c1ddf2.chunk.js",
+    "index.html": "/m2price/index.html",
+    "main.4ef013b7.css.map": "/m2price/static/css/main.4ef013b7.css.map",
+    "main.c51f9b4d.js.map": "/m2price/static/js/main.c51f9b4d.js.map",
+    "453.e3c1ddf2.chunk.js.map": "/m2price/static/js/453.e3c1ddf2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ef013b7.css",
+    "static/js/main.c51f9b4d.js"
+  ]
+}
